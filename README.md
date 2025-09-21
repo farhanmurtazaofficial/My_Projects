@@ -6,4 +6,4 @@
 
 - ## Python Projects
 
-- [Drone_Managment_System](https://github.com/farhanmurtazaofficial/Drone_management))
+- [Drone_Managment_System](https://github.com/farhanmurtazaofficial/Drone_management)
