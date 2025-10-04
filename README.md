@@ -5,7 +5,7 @@
 - [Titanic Data Analysis with Pandas, Seaborn, and Matplotlib](https://github.com/farhanmurtazaofficial/Titanic_Data_Analysis)
 
 ## Web_Scraping Projects
-
+- [Yellow_pages_link_getter](https://github.com/farhanmurtazaofficial/Titanic_Data_Analysis)
 
 ## Python Projects
 
