@@ -9,14 +9,14 @@
 
 ## Python Projects
 
-- [Drone_Managment_System](https://github.com/farhanmurtazaofficial/Drone_management)
-- [Payment_System](https://github.com/farhanmurtazaofficial/Drone_management)
-- [Zoo_Managment](https://github.com/farhanmurtazaofficial/Drone_management)
-- [Log_Analyzer](https://github.com/farhanmurtazaofficial/Drone_management)
-- [Password_generator](https://github.com/farhanmurtazaofficial/Drone_management)
-- [Payment_System](https://github.com/farhanmurtazaofficial/Drone_management)
+- [Drone_Managment_System](https://github.com/farhanmurtazaofficial/Drone_managemen)
+- [Payment_System](https://github.com/farhanmurtazaofficial/Programs/blob/main/payment_system.py)
+- [Zoo_Managment](https://github.com/farhanmurtazaofficial/Programs/blob/main/Zoo_Management.py)
+- [Log_Analyzer](https://github.com/farhanmurtazaofficial/Programs/blob/main/log_analyzer.py)
+- [Password_generator](https://github.com/farhanmurtazaofficial/Programs/blob/main/password_generator.py)
+- [Guessing_Game](https://github.com/farhanmurtazaofficial/Drone_management)
 - [ToDo_app](https://github.com/farhanmurtazaofficial/Drone_management)
-- [Draw_Something](https://github.com/farhanmurtazaofficial/Drone_management)
+- [Draw_Something](https://github.com/farhanmurtazaofficial/Programs/blob/main/draw_something.py)
 - [Coin_Toss](https://github.com/farhanmurtazaofficial/Drone_management)
-- [Area_of_shapes](https://github.com/farhanmurtazaofficial/Drone_management)
-- [Calculator](https://github.com/farhanmurtazaofficial/Drone_management)
+- [Area_of_shapes](https://github.com/farhanmurtazaofficial/Programs/blob/main/area_of_shapes.py)
+- [Calculator](https://github.com/farhanmurtazaofficial/Programs/blob/main/calculator.py)
