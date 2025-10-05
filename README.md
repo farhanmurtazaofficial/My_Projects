@@ -9,7 +9,7 @@
 
 ## Python Projects
 
-- [Drone_Managment_System](https://github.com/farhanmurtazaofficial/Drone_managemen)
+- [Drone_Managment_System](https://github.com/farhanmurtazaofficial/Drone_management))
 - [Payment_System](https://github.com/farhanmurtazaofficial/Programs/blob/main/payment_system.py)
 - [Zoo_Managment](https://github.com/farhanmurtazaofficial/Programs/blob/main/Zoo_Management.py)
 - [Log_Analyzer](https://github.com/farhanmurtazaofficial/Programs/blob/main/log_analyzer.py)
