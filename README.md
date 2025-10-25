@@ -1,6 +1,6 @@
 # My_Projects
 ## Artificial Intelligence
-- [Simple ChatBot](https://github.com/farhanmurtazaofficial/ChatBot))
+- [Simple ChatBot](https://github.com/farhanmurtazaofficial/ChatBot)
 - [Heart Disease Prediction (PyTorch)](https://github.com/farhanmurtazaofficial/Heart-Disease-Prediction-PyTorch-)
 - [Breast Cancer Dataset Analysis with PCA](https://github.com/farhanmurtazaofficial/Breast_Cancer_Dataset)
 - [Iris Dataset - Classification and Regression using Random Forest](https://github.com/farhanmurtazaofficial/Iris_Dataset)
